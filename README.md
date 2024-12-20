@@ -1,5 +1,4 @@
-# Diploma2
-My diploma
+
 detection_site/
 ├───object_detection/
 │ ├───models.py
